@@ -1,4 +1,4 @@
-# Solar System App
+# Solar System Mockup
 Minimal & elegant app design mockup.
 
 
