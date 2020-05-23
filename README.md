@@ -7,6 +7,11 @@ All design files (.xd, .ai) along with exported images are included in respectiv
 ![Alt Text](https://i.imgur.com/vha8x7t.png)
 ## TravelHub App Design
 ![Alt Text](https://i.imgur.com/Bc07kYW.png)
+## Solar System Mockup
+![Alt Text](https://i.imgur.com/BQ7EblB.png)
+
+## Calculator Mockup
+![Alt Text](https://i.imgur.com/vca7DaNl.png)
 
 ![Alt Text](https://i.imgur.com/d7ABokwm.png)
 ![Alt Text](https://i.imgur.com/GkjsRjsm.png)
